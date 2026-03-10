@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Puzzle Block: Falling Blocks",
+    "slug": "tetris-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#667eea"
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.vibecodegames.puzzleblock",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1fb81657-1ea5-4ec5-a838-24d3914fd64b"
+      }
+    },
+    "owner": "urokishahmat"
+  }
+}
